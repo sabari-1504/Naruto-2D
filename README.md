@@ -71,12 +71,8 @@ This project helps students:
 
 ## 📸 Screenshots
 
-Add your screenshots in the repository and link them here:
-
-```md
-![Gameplay Screenshot 1](screenshots/screen1.png)
-![Gameplay Screenshot 2](screenshots/screen2.png)
-```
+![Gameplay Screenshot 1](Screen_Shots/sc1.png)
+![Gameplay Screenshot 2](Screen_Shots/sc2.png)
 
 ---
 
